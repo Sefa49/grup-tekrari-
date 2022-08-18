@@ -3,7 +3,7 @@ public class C01 {
 
         System.out.println("ilk deneme");
 
-        System.out.println("Deneme Github")
+        System.out.println("Deneme Github");
 
 
     }
